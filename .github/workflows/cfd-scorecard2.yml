@@ -34,7 +34,6 @@ jobs:
         with:
           results_file: results.sarif
           results_format: sarif
-          root_folder: /home/runner/work/vuln-apps/vuln-apps/access_to_private_components/
           # (Optional) Read-only PAT token. Uncomment the `repo_token` line below if:
           # - you want to enable the Branch-Protection check on a *public* repository, or
           # - you are installing Scorecards on a *private* repository

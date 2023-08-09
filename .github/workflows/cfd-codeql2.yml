@@ -80,7 +80,7 @@ jobs:
       uses: gradle/gradle-build-action@3fbe033aaae657f011f88f29be9e65ed26bd29ef
       with:
         arguments: build
-        build-root-directory: /home/runner/work/vuln-apps/vuln-apps/access_to_private_components/
+        build-root-directory: /home/runner/work/vuln-apps/vuln-apps/inadequate_access_restrictions/
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@18fe527fa8b29f134bb91f32f1a5dc5abb15ed7f

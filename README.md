@@ -21,7 +21,7 @@ Sample collection of vulnerable Android applications
 
 ### Example
 - https://hackerone.com/reports/1065500
-
+ 
 ### Reference
 - https://www.m3tech.blog/entry/android-webview-intent-scheme
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105
